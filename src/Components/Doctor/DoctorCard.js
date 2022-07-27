@@ -8,12 +8,11 @@ const DoctorCard = () => {
 
     return (
         <div className='Container m-6'>
-            {/* <DoctorInfo/> */}
              <div class="grid grid-cols-4 gap-4">
                  {
                     DoctorData.map((ele) => {
                            return (
-                              <Card name={ele.Name} specialist={ele.Specialist}/>
+                              <Card data={ele}/>
                            )
                     })
                  }

@@ -2,7 +2,7 @@
     {
         "Name" : "Dr.Ram ghimire",
         "Specialist" : "Urologist And Andrologist",
-        "NMC number" : "6603",
+        "NMCnumber" : "6603",
         "Profile" : "Dr amit is an expert in the field of Endourology, Urinary Stone Management with LASER (Retrograde Intra-renal surgery) and treats cancer of kidney, bladder, penis, testis and prostate. He is highly skilled in latest minimally invasive surgeries like Mini PCNL, URSL and Bipolar TURP. His keen expertise also lies in urinary tract infections, male infertility and sexual problems. Currently he is working at B and C Medical college Teaching Hospital and Purbanchal Cancer Hospital, Birtamod, Jhapa.",
         "AvailableLocation" : [
             {
@@ -19,10 +19,10 @@
 ]
     },
     {
-        "Name" : "Dr.Ram ghimire",
-        "Specialist" : "Urologist And Andrologist",
-        "NMC number" : "6603",
-        "Profile" : "Dr amit is an expert in the field of Endourology, Urinary Stone Management with LASER (Retrograde Intra-renal surgery) and treats cancer of kidney, bladder, penis, testis and prostate. He is highly skilled in latest minimally invasive surgeries like Mini PCNL, URSL and Bipolar TURP. His keen expertise also lies in urinary tract infections, male infertility and sexual problems. Currently he is working at B and C Medical college Teaching Hospital and Purbanchal Cancer Hospital, Birtamod, Jhapa.",
+        "Name" : "Dr.Gita dhunaga",
+        "Specialist" : "Dermatologist",
+        "NMCnumber" : "4403",
+        "Profile" : "Gita is a good girl",
         "AvailableLocation" : [
             {
               "name" : "B&C Hospital and Research Center Pvt.Ltd",
@@ -36,5 +36,24 @@
                  "year" : "2014"
             }
 ]
-    }
+    },
+    {
+      "Name" : "Dr.Richa Gurung",
+      "Specialist" : "Vetinary",
+      "NMCnumber" : "4403",
+      "Profile" : "Richs is good doctor.",
+      "AvailableLocation" : [
+          {
+            "name" : "B&C Hospital and Research Center Pvt.Ltd",
+            "location":"Birtamode-5, Jhapa, Nepal"
+          }
+       ],
+       "Education" : [
+          {
+               "name" : "University of Health Sciences, Lahore, Pak",
+               "Degree" : "Masters of Surgery in Urology",
+               "year" : "2014"
+          }
+]
+  }
 ]
